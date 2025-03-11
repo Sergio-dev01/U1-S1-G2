@@ -1,0 +1,51 @@
+header {
+  background-color: rgb(250, 79, 250);
+}
+
+img {
+  width: 200px;
+}
+
+h1 {
+  font-size: 1.5em;
+  color: #333;
+  display: inline-block;
+  margin-left: 35%;
+}
+
+.navbar {
+  background-color: #9908a7;
+  overflow: hidden;
+}
+
+.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  display: inline-block;
+}
+
+.menu li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.menu li a:hover {
+  background-color: #575757;
+}
+
+h3 {
+  padding-top: 5px;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+iframe {
+  height: 400px;
+}
